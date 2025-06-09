@@ -1,0 +1,88 @@
+{
+  "tareas": [
+    {
+      "id": "3",
+      "titulo": "Estilizar tarjetas",
+      "descripcion": "Aplicar CSS a las tareas para que se vean como tarjetas",
+      "estado": "en progreso",
+      "responsable": "Sofi"
+    },
+    {
+      "id": "5",
+      "titulo": "Conectar con json-server",
+      "descripcion": "Consumir tareas desde el backend simulado",
+      "estado": "terminada",
+      "responsable": "Lu"
+    },
+    {
+      "id": "6",
+      "titulo": "Crear función para renderizar tareas",
+      "descripcion": "Mostrar tareas en columnas según su estado",
+      "estado": "en progreso",
+      "responsable": "Mati"
+    },
+    {
+      "id": "8",
+      "titulo": "Separar código en funciones",
+      "descripcion": "Evitar repetir lógica en varias partes",
+      "estado": "terminada",
+      "responsable": "Lu"
+    },
+    {
+      "id": "9",
+      "titulo": "Agregar contador de tareas por estado",
+      "descripcion": "Mostrar cuántas tareas hay en cada columna",
+      "estado": "pendiente",
+      "responsable": "Emma"
+    },
+    {
+      "id": "10",
+      "titulo": "Implementar edición de tareas",
+      "descripcion": "Permitir modificar título, descripción y estado",
+      "estado": "en progreso",
+      "responsable": "Sofi"
+    },
+    {
+      "id": "11",
+      "titulo": "Revisar errores en consola",
+      "descripcion": "Limpiar errores de JavaScript en el navegador",
+      "estado": "pendiente",
+      "responsable": "Nico"
+    },
+    {
+      "id": "12",
+      "titulo": "Subir proyecto a GitHub",
+      "descripcion": "Crear repositorio y subir código actualizado",
+      "estado": "terminada",
+      "responsable": "Lu"
+    },
+    {
+      "id": "13",
+      "titulo": "Crear README con instrucciones",
+      "descripcion": "Explicar cómo usar y correr el proyecto",
+      "estado": "pendiente",
+      "responsable": "Cami"
+    },
+    {
+      "id": "14",
+      "titulo": "Agregar estilos responsivos",
+      "descripcion": "Que se vea bien en celular",
+      "estado": "pendiente",
+      "responsable": "Mati"
+    },
+    {
+      "id": "15",
+      "titulo": "Agregar filtro por responsable",
+      "descripcion": "Mostrar solo tareas de una persona",
+      "estado": "en progreso",
+      "responsable": "Emma"
+    },
+    {
+      "id": "2af2",
+      "titulo": "Hola",
+      "descripcion": "Presentación",
+      "responsable": "Wilberth",
+      "estado": "terminada"
+    }
+  ]
+}
