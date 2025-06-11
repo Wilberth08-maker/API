@@ -1,0 +1,30 @@
+GET http://localhost:3000/tareas HTTP/1.1
+
+###
+
+GET http://localhost:3000/tareas/1 HTTP/1.1
+
+###
+
+POST http://localhost:3000/tareas HTTP/1.1
+Content-Type: application/json
+
+{
+    "titulo": "Prueba 2",
+    "descripcion": "Segundo intento de creación de API",
+    "estado": "pendiente",
+    "responsable": "Wilberth"
+}
+
+###
+
+PUT http://localhost:3000/tareas/16 HTTP/1.1
+Content-Type: application/json
+
+{
+    "responsable": "Jasiel"
+}
+
+###
+
+DELETE http://localhost:3000/tareas/19 HTTP/1.1
